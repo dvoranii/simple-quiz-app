@@ -38,4 +38,11 @@ export const QuizContainer = styled.div`
     cursor: pointer;
   }
 `;
+
+export const NavigationWrapper = styled.div`
+  display: flex;
+  justify-content: space-between;
+  padding: 20px 0;
+`;
+
 export default QuizContainer;
